@@ -1,0 +1,11 @@
+services:
+  oralscan:
+    build:
+      context: .
+      args:
+        TM_MODEL_URL: https://teachablemachine.withgoogle.com/models/QVQAlY759/
+    image: oralscan-ai:latest
+    container_name: oralscan
+    restart: unless-stopped
+    ports:
+      - "3000:3000"

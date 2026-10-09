@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.14","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2026-08-29T15:27:53.181Z","userMetadata":{},"modelName":"tm-my-image-model","labels":[" 0. Normale","1. Benigne (Rrezik i Ulët)","2. OPMD (Rrezik i Mesëm)","3. Maligne (Rrezik i Lartë)"],"imageSize":224}
